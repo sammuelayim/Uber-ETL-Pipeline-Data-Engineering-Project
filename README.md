@@ -1,6 +1,7 @@
 # 🚖 Uber Data Analytics | Modern Data Engineering GCP Project  
 
-![architecture](https://github.com/user-attachments/assets/99c3e1f6-0b75-4710-879f-9eedff9b2196)
+![image](https://github.com/user-attachments/assets/f31d092d-d30f-446a-bcac-d33698191924)
+
 
 
 ---
@@ -19,7 +20,8 @@ This project showcases a complete **end-to-end data engineering pipeline** for a
 
 ## 🏗️ Architecture  
 
-![Architecture Diagram](https://via.placeholder.com/800x400?text=Architecture+Diagram)  
+![image](https://github.com/user-attachments/assets/aaf7e59e-f304-4bc5-a17f-850eeeac60c9)
+
 
 1. **Extract**: Load raw Uber data into Mage.  
 2. **Transform**: Apply data cleaning and transformation, creating dimension and fact tables.  
@@ -27,7 +29,9 @@ This project showcases a complete **end-to-end data engineering pipeline** for a
 4. **Visualize**: Design dashboards in Looker Studio to generate actionable insights.
 
   ## Data Model
-![data_model](https://github.com/user-attachments/assets/7c714174-6a8b-4630-afdb-c7d95d44d3bc)
+   ![image](https://github.com/user-attachments/assets/db2bb771-c2e9-45d7-a88f-93893e86fe69)
+
+
   [Data Model Link Page](https://shorturl.at/Qup6m)
 
 ---
@@ -77,12 +81,13 @@ This project showcases a complete **end-to-end data engineering pipeline** for a
 
 ## 📊 Dashboard Features  
 
-![image](https://github.com/user-attachments/assets/41d8deab-609d-4931-bbb2-640e1ee689ee)
+  ![image](https://github.com/user-attachments/assets/41d8deab-609d-4931-bbb2-640e1ee689ee)
 
 1. **Revenue Insights**: Total revenue by payment type and vendor.  
 2. **Trip Metrics**: Average trip distance and fare amount.  
 3. **Geographic Trends**: Visualized pickup and drop-off hotspots.  
-![image](https://github.com/user-attachments/assets/48bf0a8a-349a-4472-a441-6d11c78e2bcb)
+  ![image](https://github.com/user-attachments/assets/48bf0a8a-349a-4472-a441-6d11c78e2bcb)
+
 🌟 **Live Dashboard Link**: [Uber Analytics Dashboard](https://lookerstudio.google.com/s/nl3slVGcC1g)
 ---
 
