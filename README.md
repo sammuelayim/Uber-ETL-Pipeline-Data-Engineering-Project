@@ -1,10 +1,11 @@
 # 🚖 Uber Data Analytics | Modern Data Engineering GCP Project  
 
-![image](https://github.com/user-attachments/assets/f31d092d-d30f-446a-bcac-d33698191924)
+![architecture](https://github.com/user-attachments/assets/18443919-970d-47ad-a446-5b00b8b5ed8b)
 
 
 
 ---
+
 
 ## 📜 Project Overview  
 This project showcases a complete **end-to-end data engineering pipeline** for analyzing Uber trip data. By leveraging **modern data engineering tools and cloud technologies**, the pipeline handles data ingestion, transformation, storage, and visualization. This is a comprehensive demonstration of transforming raw data into actionable insights!  
@@ -20,7 +21,7 @@ This project showcases a complete **end-to-end data engineering pipeline** for a
 
 ## 🏗️ Architecture  
 
-![image](https://github.com/user-attachments/assets/aaf7e59e-f304-4bc5-a17f-850eeeac60c9)
+![architecture](https://github.com/user-attachments/assets/18443919-970d-47ad-a446-5b00b8b5ed8b)
 
 
 1. **Extract**: Load raw Uber data into Mage.  
@@ -29,14 +30,14 @@ This project showcases a complete **end-to-end data engineering pipeline** for a
 4. **Visualize**: Design dashboards in Looker Studio to generate actionable insights.
 
   ## Data Model
-   ![image](https://github.com/user-attachments/assets/db2bb771-c2e9-45d7-a88f-93893e86fe69)
-
+  ![Screenshot 2025-01-06 061141](https://github.com/user-attachments/assets/fa0d0ad5-1c8c-421f-ba6d-f23181977be5)
 
   [Data Model Link Page](https://shorturl.at/Qup6m)
 
 ---
 
 ## 💻 Technologies Used  
+
 
 | Tool/Platform           | Purpose                           |
 |--------------------------|-----------------------------------|
