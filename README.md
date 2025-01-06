@@ -26,7 +26,7 @@ This project showcases a complete **end-to-end data engineering pipeline** for a
 
 1. **Extract**: Load raw Uber data into Mage.
 
-![image](https://github.com/user-attachments/assets/e7cf8190-335a-451b-8455-40fccc770fc3)
+![Screenshot 2025-01-06 062202](https://github.com/user-attachments/assets/2c8fede8-d00e-4cb6-a4f7-0e0f9039d0ea)
 
 2. **Transform**: Apply data cleaning and transformation, creating dimension and fact tables.  
 
