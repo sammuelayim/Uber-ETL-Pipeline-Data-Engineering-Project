@@ -1,6 +1,7 @@
 # 🚖 Uber Data Analytics | Modern Data Engineering GCP Project  
 
-![Banner](https://via.placeholder.com/1200x400?text=Uber+Data+Analytics+Pipeline)
+![architecture](https://github.com/user-attachments/assets/99c3e1f6-0b75-4710-879f-9eedff9b2196)
+
 
 ---
 
@@ -23,7 +24,11 @@ This project showcases a complete **end-to-end data engineering pipeline** for a
 1. **Extract**: Load raw Uber data into Mage.  
 2. **Transform**: Apply data cleaning and transformation, creating dimension and fact tables.  
 3. **Load**: Store transformed data in Google BigQuery.  
-4. **Visualize**: Design dashboards in Looker Studio to generate actionable insights.  
+4. **Visualize**: Design dashboards in Looker Studio to generate actionable insights.
+
+  ## Data Model
+![data_model](https://github.com/user-attachments/assets/7c714174-6a8b-4630-afdb-c7d95d44d3bc)
+  [Data Model Link Page](https://shorturl.at/Qup6m)
 
 ---
 
@@ -42,8 +47,7 @@ This project showcases a complete **end-to-end data engineering pipeline** for a
 ## 📂 Dataset Details  
 
 - **Source**: NYC Taxi and Limousine Commission Trip Record Data  
-  - **Dataset URL**: [Uber Data](https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv)  
-  - **Dataset Description**: Includes fields such as pickup and drop-off times, trip distances, fare details, and passenger counts.  
+  - **Dataset Description**: Includes pickup and drop-off times, trip distances, fare details, and passenger counts.  
   - **More Info**:  
     - Website: [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)  
     - Data Dictionary: [Yellow Trip Data Dictionary](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)  
@@ -73,16 +77,17 @@ This project showcases a complete **end-to-end data engineering pipeline** for a
 
 ## 📊 Dashboard Features  
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Dashboard+Preview)  
+![image](https://github.com/user-attachments/assets/41d8deab-609d-4931-bbb2-640e1ee689ee)
 
 1. **Revenue Insights**: Total revenue by payment type and vendor.  
 2. **Trip Metrics**: Average trip distance and fare amount.  
 3. **Geographic Trends**: Visualized pickup and drop-off hotspots.  
-
+![image](https://github.com/user-attachments/assets/48bf0a8a-349a-4472-a441-6d11c78e2bcb)
+🌟 **Live Dashboard Link**: [Uber Analytics Dashboard](https://lookerstudio.google.com/s/nl3slVGcC1g)
 ---
 
 ## 🛠️ How to Reproduce  
 
 ### Clone the Repository:  
 ```bash
-git clone https://github.com/yourusername/uber-data-engineering.git
+git clone https://https://github.com/sammuelayim/Uber-ETL-Pipeline-Data-Engineering-Project.git
