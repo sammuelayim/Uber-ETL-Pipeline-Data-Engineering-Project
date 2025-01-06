@@ -24,9 +24,16 @@ This project showcases a complete **end-to-end data engineering pipeline** for a
 ![architecture](https://github.com/user-attachments/assets/18443919-970d-47ad-a446-5b00b8b5ed8b)
 
 
-1. **Extract**: Load raw Uber data into Mage.  
+1. **Extract**: Load raw Uber data into Mage.
+
+![image](https://github.com/user-attachments/assets/e7cf8190-335a-451b-8455-40fccc770fc3)
+
 2. **Transform**: Apply data cleaning and transformation, creating dimension and fact tables.  
+
 3. **Load**: Store transformed data in Google BigQuery.  
+
+![image](https://github.com/user-attachments/assets/16ff8741-9089-4a6f-97af-dcc0a518a33c)
+
 4. **Visualize**: Design dashboards in Looker Studio to generate actionable insights.
 
   ## Data Model
